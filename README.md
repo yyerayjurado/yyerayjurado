@@ -10,13 +10,11 @@
 ---
 
 ## 🧭 Lo que estudio (asignaturas actuales)
-- Programación: `[Nombre/s de la/s asignatura/s]` (por ejemplo: Programación, Algoritmos)  
-- Entornos de Desarrollo: `[IDE, Git/GitHub, terminal...]`  
-- Bases de Datos: `[MySQL, SQL...]`  
-- Lenguajes de marcas y hojas de estilo: HTML / CSS  
-- Sistemas informáticos y redes: `[Sistemas...]`  
-
-*(Reemplaza los corchetes con tus asignaturas reales)*
+- **Programación**: fundamentos de JavaScript y lógica de programación  
+- **Entornos de Desarrollo**: Git, GitHub, VS Code, terminal  
+- **Bases de Datos**: MySQL y consultas SQL  
+- **Lenguajes de Marcas**: HTML / CSS / XML  
+- **Sistemas Informáticos y redes**: fundamentos de hardware, software y redes  
 
 ---
 
@@ -26,24 +24,23 @@
 ![JS Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![VSCode Badge](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
 ---
 
 ## 🚀 Proyectos destacados
-- **Proyecto 1** — breve descripción (HTML + CSS + JS)  
-- **Proyecto 2** — breve descripción (Trabajo en equipo / primer CRUD)  
+- [Portfolio inicial](https://github.com/yyerayjurado/portfolio) — Mi primera web personal con HTML y CSS  
+- [Mini app CRUD](https://github.com/yyerayjurado/mi-crud) — Proyecto de práctica con operaciones básicas de base de datos  
 
-*(Incluye enlaces directos a tus repositorios con `[Nombre del proyecto](https://github.com/TU_USUARIO/REPO)`)*
-  
+*(Puedes cambiar los nombres y enlaces cuando tengas proyectos listos, de momento los dejé de ejemplo para que veas cómo quedaría)*
+
 ---
 
 ## 📈 Mis estadísticas (GitHub)
 <p align="left">
-  <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default" />
-  <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide=css,html" />
+  <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=yyerayjurado&show_icons=true&theme=default" />
+  <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyerayjurado&layout=compact&hide=css,html" />
 </p>
-
-> 🔧 *Consejo:* si no quieres que aparezca alguna tarjeta, bórrala o cámbiala.
 
 ---
 

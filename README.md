@@ -45,7 +45,7 @@
 ---
 
 ## 📫 Contacto
-- ✉️ correo: `tu-email@ejemplo.com`  
+- ✉️ correo: `yjuradovela@gmail.com`  
 - 💼 LinkedIn: `https://www.linkedin.com/in/tu-perfil`  
 
 ---

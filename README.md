@@ -1,6 +1,6 @@
 <!-- Banner (opcional): sube una imagen a tu repo y cambia la ruta -->
 <p align="center">
-  <img src="https://imgur.com/a/k8wdiqv" alt="banner" width="100%" />
+  <img src="github-header-banner.png" alt="banner" width="100%" />
 </p>
 
 # 👋 ¡Hola! soy Yeray Jurado

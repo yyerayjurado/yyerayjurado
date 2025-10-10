@@ -28,13 +28,6 @@
 
 ---
 
-## 🚀 Proyectos destacados
-- [Portfolio inicial](https://github.com/yyerayjurado/portfolio) — Mi primera web personal con HTML y CSS  
-- [Mini app CRUD](https://github.com/yyerayjurado/mi-crud) — Proyecto de práctica con operaciones básicas de base de datos  
-
-*(Puedes cambiar los nombres y enlaces cuando tengas proyectos listos, de momento los dejé de ejemplo para que veas cómo quedaría)*
-
----
 
 ## 📈 Mis estadísticas (GitHub)
 <p align="left">

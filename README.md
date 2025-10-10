@@ -1,16 +1,56 @@
-## Hi there 👋
+<!-- Banner (opcional): sube una imagen a tu repo y cambia la ruta -->
+<p align="center">
+  <img src="assets/banner.png" alt="banner" width="100%" />
+</p>
 
-<!--
-**yyerayjurado/yyerayjurado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 ¡Hola! soy Yeray Jurado
+✨ Estudiante de **1º de Desarrollo de Aplicaciones Web**  
+💻 Apasionado por el desarrollo frontend y backend. Creo proyectos prácticos y aprendo cada día.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧭 Lo que estudio (asignaturas actuales)
+- Programación: `[Nombre/s de la/s asignatura/s]` (por ejemplo: Programación, Algoritmos)  
+- Entornos de Desarrollo: `[IDE, Git/GitHub, terminal...]`  
+- Bases de Datos: `[MySQL, SQL...]`  
+- Lenguajes de marcas y hojas de estilo: HTML / CSS  
+- Sistemas informáticos y redes: `[Sistemas...]`  
+
+*(Reemplaza los corchetes con tus asignaturas reales)*
+
+---
+
+## 🛠️ Tecnologías y herramientas
+![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JS Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![VSCode Badge](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🚀 Proyectos destacados
+- **Proyecto 1** — breve descripción (HTML + CSS + JS)  
+- **Proyecto 2** — breve descripción (Trabajo en equipo / primer CRUD)  
+
+*(Incluye enlaces directos a tus repositorios con `[Nombre del proyecto](https://github.com/TU_USUARIO/REPO)`)*
+  
+---
+
+## 📈 Mis estadísticas (GitHub)
+<p align="left">
+  <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default" />
+  <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide=css,html" />
+</p>
+
+> 🔧 *Consejo:* si no quieres que aparezca alguna tarjeta, bórrala o cámbiala.
+
+---
+
+## 📫 Contacto
+- ✉️ correo: `tu-email@ejemplo.com`  
+- 💼 LinkedIn: `https://www.linkedin.com/in/tu-perfil`  
+
+---
+
+⭐ Siempre aprendiendo y listo para colaborar.

@@ -25,6 +25,7 @@
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![VSCode Badge](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Java Badge](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 
 ---
 

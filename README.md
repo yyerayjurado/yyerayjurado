@@ -29,14 +29,6 @@
 ---
 
 
-## 📈 Mis estadísticas (GitHub)
-<p align="left">
-  <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=yyerayjurado&show_icons=true&theme=default" />
-  <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyerayjurado&layout=compact&hide=css,html" />
-</p>
-
----
-
 ## 📫 Contacto
 - ✉️ correo: `yjuradovela@gmail.com`  
 - 💼 LinkedIn: `https://www.linkedin.com/in/tu-perfil`  

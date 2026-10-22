@@ -18,14 +18,14 @@ Socorrista en verano, árbitro los findes y programador el resto del tiempo. Sí
 ## 🛠️ Stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,php,wordpress,java,spring,mysql&theme=dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cphp%2Cwordpress%2Cjava%2Cspring%2Cmysql&theme=dark">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,wordpress,java,spring,mysql&theme=light" alt="HTML, CSS, JavaScript, PHP, WordPress, Java, Spring, MySQL">
 </picture>
 
 **Herramientas:**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,docker,vscode,idea&theme=dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cdocker%2Cvscode%2Cidea&theme=dark">
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea&theme=light" alt="Git, GitHub, Docker, VS Code, IntelliJ IDEA">
 </picture>
 

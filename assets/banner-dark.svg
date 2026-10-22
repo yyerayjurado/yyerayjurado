@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Yeray Jurado Vela, Desarrollador Web Full Stack">
+  <defs>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="11" cy="11" r="1.2" fill="#21262D"/>
+    </pattern>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="140%">
+      <feDropShadow dx="0" dy="14" stdDeviation="16" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="320" rx="16" fill="#0D1117"/>
+  <rect width="1280" height="320" rx="16" fill="url(#dots)"/>
+  <rect x="0.5" y="0.5" width="1279" height="319" rx="16" fill="none" stroke="#30363D"/>
+
+  <!-- Texto -->
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <rect x="64" y="64" width="410" height="30" fill="#0D1117"/>
+    <circle cx="72" cy="79" r="6" fill="#3FB950"/>
+    <text x="88" y="85" font-size="17" font-weight="500" fill="#9198A1">Abierto a oportunidades · Jaén / Remoto</text>
+
+    <rect x="64" y="110" width="330" height="36" fill="#0D1117"/>
+    <text x="64" y="138" font-size="28" font-weight="400" fill="#9198A1" letter-spacing="-0.5">Desarrollador Web</text>
+
+    <rect x="64" y="152" width="370" height="76" fill="#0D1117"/>
+    <text x="62" y="212" font-size="66" font-weight="700" fill="#E6EDF3" letter-spacing="-2.5">Full Stack<tspan fill="#5B8CFF">.</tspan></text>
+
+    <rect x="64" y="244" width="420" height="28" fill="#0D1117"/>
+    <text x="64" y="264" font-size="17" font-weight="600" fill="#E6EDF3">Yeray Jurado Vela</text>
+  </g>
+
+  <!-- Ventana de código -->
+  <g filter="url(#shadow)">
+    <rect x="720" y="52" width="496" height="216" rx="14" fill="#161B22" stroke="#30363D"/>
+  </g>
+  <line x1="720" y1="94" x2="1216" y2="94" stroke="#30363D"/>
+  <circle cx="742" cy="73" r="5.5" fill="#30363D"/>
+  <circle cx="760" cy="73" r="5.5" fill="#30363D"/>
+  <circle cx="778" cy="73" r="5.5" fill="#30363D"/>
+  <text x="796" y="78" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#7D8590">yeray.js</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#E6EDF3" xml:space="preserve">
+    <text x="744" y="128"><tspan fill="#5B8CFF">const</tspan> yeray = {</text>
+    <text x="744" y="156">  rol: <tspan fill="#3FB950">"Full Stack"</tspan>,</text>
+    <text x="744" y="184">  front: [<tspan fill="#3FB950">"HTML"</tspan>, <tspan fill="#3FB950">"CSS"</tspan>, <tspan fill="#3FB950">"JS"</tspan>],</text>
+    <text x="744" y="212">  back: [<tspan fill="#3FB950">"PHP"</tspan>, <tspan fill="#3FB950">"Java"</tspan>],</text>
+    <text x="744" y="240">  base: <tspan fill="#3FB950">"Jaén"</tspan> };</text>
+  </g>
+</svg>

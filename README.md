@@ -1,47 +1,30 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-    <img src="./assets/banner.svg" alt="Yeray Jurado Vela · Desarrollador Web Full Stack" width="100%">
-  </picture>
+  <img src="./assets/header.svg" alt="Hola, soy Yeray Jurado · Desarrollador Web Full Stack · Jaén" width="100%">
 </p>
 
-## 👋 Hola, soy Yeray
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=8B5CF6&center=true&vCenter=true&width=620&lines=Desarrollador+Web+Full+Stack;Estudiante+de+DAW+en+Ja%C3%A9n;Socorrista+en+verano%2C+%C3%A1rbitro+los+findes;Siempre+aprendiendo+algo+nuevo" alt="Desarrollador Web Full Stack · Estudiante de DAW en Jaén · Socorrista en verano, árbitro los findes">
+</p>
 
-Socorrista en verano, árbitro los findes y programador el resto del tiempo. Sí, duermo poco 😅
+<br>
 
-- 🎓 Estudio 2.º de **Desarrollo de Aplicaciones Web** en el IES Las Fuentezuelas (Jaén)
-- 💼 He pasado por el programa de formación de **NTT DATA**
-- 🌐 Hago webs para pequeños negocios
-- 📚 Ahora mismo aprendiendo **React** y **Angular**
-- 📍 Jaén · abierto a trabajar en remoto
+<p align="center">
+  <img src="./assets/about.svg" alt="Estudio 2.º de DAW · Formación en NTT DATA · Aprendiendo React y Angular · Árbitro de fútbol" width="100%">
+</p>
 
-## 🛠️ Stack
+<br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cphp%2Cwordpress%2Cjava%2Cspring%2Cmysql&theme=dark">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,wordpress,java,spring,mysql&theme=light" alt="HTML, CSS, JavaScript, PHP, WordPress, Java, Spring, MySQL">
-</picture>
+<h3 align="center">🛠️ Con lo que trabajo</h3>
 
-**Herramientas:**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,wordpress,java,spring,mysql,git,docker&perline=10" alt="HTML, CSS, JavaScript, PHP, WordPress, Java, Spring, MySQL, Git, Docker">
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cdocker%2Cvscode%2Cidea&theme=dark">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea&theme=light" alt="Git, GitHub, Docker, VS Code, IntelliJ IDEA">
-</picture>
+<br>
 
-## 📊 Estadísticas
+<h3 align="center">📫 Hablamos</h3>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yyerayjurado&show_icons=true&hide_border=true&title_color=5B8CFF&icon_color=5B8CFF&text_color=9198A1&bg_color=161B22&locale=es">
-  <img src="https://github-readme-stats.vercel.app/api?username=yyerayjurado&show_icons=true&hide_border=true&title_color=2F5BEA&icon_color=2F5BEA&text_color=4A4A4A&bg_color=FFFFFF&locale=es" alt="Estadísticas de GitHub de Yeray" height="165">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yyerayjurado&layout=compact&hide_border=true&title_color=5B8CFF&text_color=9198A1&bg_color=161B22&locale=es">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyerayjurado&layout=compact&hide_border=true&title_color=2F5BEA&text_color=4A4A4A&bg_color=FFFFFF&locale=es" alt="Lenguajes más usados" height="165">
-</picture>
-
-## 📫 Contacto
-
-<a href="https://www.linkedin.com/in/yeray-jurado-vela-372031358/">
-  <img src="https://img.shields.io/badge/LinkedIn-Yeray%20Jurado%20Vela-2F5BEA?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/yeray-jurado-vela-372031358/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/yyerayjurado/portfolioYeray"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"></a>
+</p>

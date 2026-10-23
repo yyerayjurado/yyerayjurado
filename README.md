@@ -17,7 +17,6 @@
 <h2>🔭 Ahora mismo</h2>
 <ul>
   <li>🏗️ Desarrollando la web de <b>Territorio RFAF</b>, sobre el fútbol territorial andaluz</li>
-  <li>📱 Trabajando en <b>BounceApp</b>, una app para iOS hecha con TypeScript</li>
   <li>🌱 Aprendiendo <b>React</b> y <b>Angular</b> en el ciclo</li>
 </ul>
 

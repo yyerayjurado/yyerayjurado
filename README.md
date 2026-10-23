@@ -22,14 +22,10 @@
 </ul>
 
 <h2>📍 Mi recorrido</h2>
-<table>
-  <tr><td><b>2023</b></td><td>🖥️ Empiezo el grado medio de <b>Sistemas Microinformáticos y Redes</b></td></tr>
-  <tr><td><b>2023</b></td><td>⚽ Me hago <b>árbitro de fútbol</b></td></tr>
-  <tr><td><b>2025</b></td><td>🔧 Prácticas como <b>técnico informático</b> en el IES Santa Catalina de Alejandría</td></tr>
-  <tr><td><b>2025</b></td><td>🎓 Empiezo <b>Desarrollo de Aplicaciones Web</b> en el IES Las Fuentezuelas</td></tr>
-  <tr><td><b>2026</b></td><td>💼 Formación como becario en <b>NTT DATA</b></td></tr>
-  <tr><td><b>2027</b></td><td>🚀 Termino el ciclo… ¿y empiezo en tu empresa? 👀</td></tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/recorrido-dark.svg">
+  <img src="./assets/recorrido-light.svg" alt="Mi recorrido: SMR (2023), técnico informático (2025), DAW (2025), NTT DATA (2026), termino el ciclo (2027)" width="100%">
+</picture>
 
 <h2>🚀 Tecnologías que uso</h2>
 

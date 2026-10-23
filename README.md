@@ -17,54 +17,47 @@
 <h2>🔭 Ahora mismo</h2>
 <ul>
   <li>🏗️ Desarrollando la web de <b>Territorio RFAF</b>, sobre el fútbol territorial andaluz</li>
+  <li>📱 Trabajando en <b>BounceApp</b>, una app para iOS hecha con TypeScript</li>
   <li>🌱 Aprendiendo <b>React</b> y <b>Angular</b> en el ciclo</li>
 </ul>
 
-<h2>📌 Proyectos destacados</h2>
-<p>
-  <a href="https://github.com/yyerayjurado/Call-of-DevOps"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yyerayjurado&repo=Call-of-DevOps&theme=transparent&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&border_color=30363D" alt="Call-of-DevOps" /></a>
-  <a href="https://github.com/yyerayjurado/gestion-instituto"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yyerayjurado&repo=gestion-instituto&theme=transparent&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&border_color=30363D" alt="gestion-instituto" /></a>
-  <a href="https://github.com/yyerayjurado/portfolioYeray"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yyerayjurado&repo=portfolioYeray&theme=transparent&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&border_color=30363D" alt="portfolioYeray" /></a>
-  <a href="https://github.com/yyerayjurado/gestor-peliculas"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yyerayjurado&repo=gestor-peliculas&theme=transparent&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&border_color=30363D" alt="gestor-peliculas" /></a>
-</p>
+<h2>📍 Mi recorrido</h2>
+<table>
+  <tr><td><b>2023</b></td><td>🖥️ Empiezo el grado medio de <b>Sistemas Microinformáticos y Redes</b></td></tr>
+  <tr><td><b>2023</b></td><td>⚽ Me hago <b>árbitro de fútbol</b></td></tr>
+  <tr><td><b>2025</b></td><td>🔧 Prácticas como <b>técnico informático</b> en el IES Santa Catalina de Alejandría</td></tr>
+  <tr><td><b>2025</b></td><td>🎓 Empiezo <b>Desarrollo de Aplicaciones Web</b> en el IES Las Fuentezuelas</td></tr>
+  <tr><td><b>2026</b></td><td>💼 Formación como becario en <b>NTT DATA</b></td></tr>
+  <tr><td><b>2027</b></td><td>🚀 Termino el ciclo… ¿y empiezo en tu empresa? 👀</td></tr>
+</table>
 
 <h2>🚀 Tecnologías que uso</h2>
-<table>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" title="Angular" width="40" height="40" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" title="Spring" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" title="PHP" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="WordPress" title="WordPress" width="40" height="40" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Bases de datos</b></td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Herramientas</b></td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="40" height="40" />
-    </td>
-  </tr>
-</table>
+
+<p><b>Frontend</b><br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+</p>
+
+<p><b>Backend</b><br>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+</p>
+
+<p><b>Bases de datos</b><br>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+<p><b>Herramientas</b><br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+</p>
 
 <h2>⚡️ Dónde encontrarme</h2>
 <p>

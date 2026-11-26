@@ -16,8 +16,8 @@
 
 <h2>🔭 Ahora mismo</h2>
 <ul>
-  <li>🏗️ Desarrollando la web de <b>Territorio RFAF</b>, sobre el fútbol territorial andaluz</li>
-  <li>📱 Trabajando en <b>BounceApp</b>, una app para iOS hecha con TypeScript</li>
+  <li>🏗️ Desarrollando la web de <a href="https://territoriorfaf.com"><b>Territorio RFAF</b></a>, sobre el fútbol territorial andaluz</li>
+  <li>🔄 Terminando <a href="https://github.com/yyerayjurado/proyecto-noviembre"><b>HoraXHora</b></a>, una plataforma de trueque de servicios con PHP, MySQL, Twig y Docker</li>
   <li>🌱 Aprendiendo <b>React</b> y <b>Angular</b> en el ciclo</li>
 </ul>
 
@@ -42,6 +42,7 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Twig-BACF29?style=for-the-badge&logo=symfony&logoColor=black" alt="Twig" />
 </p>
 
 <p><b>Bases de datos</b><br>
@@ -51,12 +52,12 @@
 <p><b>Herramientas</b><br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" alt="Composer" />
 </p>
 
 <h2>⚡️ Dónde encontrarme</h2>
 <p>
   <a href="https://www.linkedin.com/in/yeray-jurado-vela-372031358" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/yyerayjurado/portfolioYeray" target="_blank"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
 </p>
